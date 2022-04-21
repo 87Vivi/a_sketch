@@ -22,3 +22,12 @@
 li {
   margin-right: 1rem;
 }
+
+/* .shoe_right {
+  min-height: 60vh;
+} */
+.container-shoe {
+  /* margin: 1rem; */
+  min-height: 30vh;
+  background-color: rgb(224, 222, 222);
+}
