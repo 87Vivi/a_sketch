@@ -1,0 +1,22 @@
+.nike_logo {
+  width: 7rem;
+}
+.cart-icon {
+  width: 2rem;
+  height: 2rem;
+  /* margin: 0.5rem; */
+  z-index: 1;
+  vertical-align: middle;
+}
+.navbar {
+  /* width: 40rem; */
+  height: 3rem;
+  border-radius: 1.5rem;
+  /* background-color: pink; */
+  /* background: rgba(255, 255, 255, 0.7); */
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+li {
+  margin-right: 1rem;
+}
